@@ -46,5 +46,5 @@ For further information, download the [ifaceX Studio Manual](https://products.au
 <br>
 
 <p align="center" style="margin-bottom: 0">
-  <img src="etc/ifaceX-Studio-FX-Screen.webp" alt="ifaceX Studio FX Screen" />
+  <img src="images/ifaceX-Studio-FX-Screen.webp" alt="ifaceX Studio FX Screen" />
 </p>
