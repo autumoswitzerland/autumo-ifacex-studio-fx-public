@@ -15,10 +15,10 @@ data integration and exchange platform.
 You find [here](https://github.com/autumoswitzerland/autumo-ifacex-studio-fx-public/releases)
 the ifaceX Studio installers for Windows, macOS, and Linux:
 
-* **Linux**: `ifaceX-Studio-FX-3.0.0-linux-x64.deb`
-* **macOS (Apple Silicon):**: `ifaceX-Studio-FX-3.0.0-macos-arm64.pkg`
-* **macOS (Intel):**: `ifaceX-Studio-FX-3.0.0-macos-x64.pkg`
-* **Windows:**: `ifaceX-Studio-FX-3.0.0-windows-x64.exe` and `ifaceX-Studio-FX-3.0.0-windows-x64.msi`
+* **Linux**: `ifacex-studio-fx-x64_3.0.0_amd64.deb`
+* **macOS (Apple Silicon):**: `ifaceX-Studio-FX-arm64-3.0.0.pkg`
+* **macOS (Intel):**: `ifaceX-Studio-FX-x64-3.0.0.pkg`
+* **Windows:**: `ifaceX-Studio-FX-x64-3.0.0.exe` and `ifaceX-Studio-FX-x64-3.0.0.msi`
 
 For further information, download the [ifaceX Studio Manual](https://products.autumo.ch/ifacex/download).
 
