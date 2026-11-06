@@ -2,7 +2,7 @@
   <img class="logo" src="images/ifaceX-Studio-FX.png" alt="ifaceX Studio FX — logo" width="256" />
 </p>
 
-<h1 align="center" style="font-size:3.5em; margin:0px">autumo UI</h1>
+<h1 align="center" style="font-size:3.5em; margin:0px">ifaceX Studio FX</h1>
 
 <br />
 
