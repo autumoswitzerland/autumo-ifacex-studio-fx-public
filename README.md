@@ -1,8 +1,15 @@
-<p align="center" style="margin-bottom:0">
-  <img class="logo" src="images/ifaceX-Studio-FX.png" alt="ifaceX Studio FX — logo" width="256" />
-</p>
+<div align="center">
+  <!-- PROJECT LOGO -->
+  <a href="https://github.com/autumoswitzerland/autumo-beetroot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/ifaceX-Studio-FX.png">
+      <source media="(prefers-color-scheme: light)" srcset="images/ifaceX-Studio-FX.png">
+      <img src="images/ifaceX-Studio-FX.png" alt="Logo" width="256" height="256" />
+    </picture>
+  </a>
 
-<h1 align="center" style="font-size:3.5em; margin:0px">ifaceX Studio FX</h1>
+  <h1 style="font-size:3.5em; margin:0px">ifaceX Studio FX</h1>
+</div>
 
 <br />
 
